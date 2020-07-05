@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859332157834",
+    "firebase_url": "https://ie-raspberry.firebaseio.com",
+    "project_id": "ie-raspberry",
+    "storage_bucket": "ie-raspberry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859332157834:android:29a78dff310366352fe873",
+        "android_client_info": {
+          "package_name": "com.example.ie_riego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859332157834-olvjq0kh5odve5prvkakjhj1o5q4or39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1IeH_4aooxsrcjmAQJm2C45yyE_DYEA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859332157834-olvjq0kh5odve5prvkakjhj1o5q4or39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
